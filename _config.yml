@@ -1,0 +1,14 @@
+layout_spectrum: 0.2647555
+color:
+  saturation: 0.6568297
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#0D0B05'
+    - '#49442F'
+    - '#BC9178'
+    - '#EAB399'
+    - '#77899A'
+  rhythmicContrast: 1
+typography_spectrum: 0.1551433
+name: Littlelookbook
