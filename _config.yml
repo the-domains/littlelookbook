@@ -1,14 +1,26 @@
-layout_spectrum: 0.2647555
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.2731872
 color:
   saturation: 0.6568297
-  lightness: 1
   brandStrength: 1
+  lightness: 1
   brandColors:
-    - '#0D0B05'
-    - '#49442F'
-    - '#BC9178'
-    - '#EAB399'
-    - '#77899A'
+    - '#0C1717'
+    - '#434943'
+    - '#F4F3D1'
+    - '#888777'
+    - '#064353'
   rhythmicContrast: 1
-typography_spectrum: 0.1551433
+layout_spectrum: 0.3549747
 name: Littlelookbook
