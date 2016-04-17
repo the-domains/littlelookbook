@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Littlelookbook]]></title>
+        <description><![CDATA[Littlelookbook]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 22:16:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Honest make-up]]></title>
+            <description><![CDATA[<article><h1>Honest make-up</h1><p>Follow me Http://www.instagram.com/marianna_hewitt Jessica Alba did my makeup! Omg typing the title of this is so exciting! I can't wait for you guys to see this video and be sure to watch it all the way through for some bonus clips at the end.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=I0RPLoeoosc</link>
+            <guid isPermaLink="false">5f1dd3bb-8c25-4c04-a68c-f819bedd0bb3</guid>
+            <pubDate>Sun, 17 Apr 2016 22:15:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
